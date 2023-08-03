@@ -2,7 +2,7 @@
 
 Shades of Purple theme for the NotePlan app.
 
-![Alt text](<CleanShot 2023-08-03 at 17.31.56@2x.png>)
+![Alt text](<CleanShot 2023-08-03 at 17.34.49@2x.png>)
 
 Note: in the screenshot I'm using the Source Code Pro font, but you can change it to whatever you want in the theme file.
 
