@@ -1,0 +1,155 @@
+{
+    "name": "Shades of Purple",
+    "style": "Dark",
+    "author": {
+      "name": "Your Name",
+      "email": "your.email@example.com"
+    },
+    "editor": {
+      "backgroundColor": "#2d2b55",
+      "altBackgroundColor": "#616161",
+      "tintColor": "#fad003",
+      "tintColor2": "#6943ff",
+      "textColor": "#ffffff",
+      "toolbarBackgroundColor": "#222244",
+      "toolbarIconColor": "#FAD000", 
+      "menuItemColor": "#3ad900",
+      "shouldOverwriteFont": false
+    },
+    "styles": {
+      "body": {
+        "font": "SourceCodePro-Regular",
+        "size": 15,
+        "color": "#ffffff"
+      },
+      "title1": {
+        "color": "#fad003",
+        "size": 28,
+        "font": "SourceCodePro-Regular"
+      },
+      "title2": {
+        "color": "#6943ff",
+        "size": 24,
+        "font": "SourceCodePro-Regular"
+      },
+      "title3": {
+        "color": "#6943ff",
+        "size": 20,
+        "font": "SourceCodePro-Regular"
+      },
+      "title-mark1": {
+        "color": "#fad003",
+        "size": 28,
+        "font": "SourceCodePro-Regular"
+      },
+      "title-mark2": {
+        "color": "#6943ff",
+        "size": 24,
+        "font": "SourceCodePro-Regular"
+      },
+      "title-mark3": {
+        "color": "#6943ff",
+        "size": 20,
+        "font": "SourceCodePro-Regular"
+      },
+      "bold": {
+        "color": "#FAD000",
+        "font": "SourceCodePro-Regular"
+      },
+      "bold-left-mark": {
+        "color": "#FAD000"
+      },
+      "bold-right-mark": {
+        "color": "#FAD000"
+      },
+      "italic": {
+        "color": "#ff2c70",
+        "font": "SourceCodePro-Regular"
+      },
+      "italic-left-mark": {
+        "color": "#ff2c70"
+      },
+      "italic-right-mark": {
+        "color": "#ff2c70"
+      },
+      "boldItalic": {
+        "font": "SourceCodePro-Regular",
+        "color": "#FAD000"
+      },
+      "boldItalic-left-mark": {
+        "color": "#FAD000"
+      },
+      "boldItalic-right-mark": {
+        "color": "#FAD000"
+      },
+      "code": {
+        "font": "SourceCodePro-Regular",
+        "color": "#80fcff",
+        "size": 15
+      },
+      "code-left-backtick": {
+        "color": "#80fcff"
+      },
+      "code-right-backtick": {
+        "color": "#80fcff"
+      },
+      "checked": {
+        "color": "#3ad900",
+        "headIndent": 33
+      },
+      "todo": {
+        "font": "noteplanstate",
+        "color": "#FAD000",
+        "headIndent": 33,
+        "size": 15
+      },
+      "checked-todo-characters": {
+        "font": "noteplanstate",
+        "headIndent": 33,
+        "size": 15
+      },
+      "special-char": {
+        "font": "SourceCodePro-Regular",
+        "color": "#80fcff"
+      },
+      "tabbed": {
+        "headIndent": 43
+      },
+      "quote-mark": {
+        "color": "#3ad900",
+        "font": "noteplanstate",
+        "headIndent": 33,
+        "size": 15
+      },
+      "quote-content": {
+        "color": "#80fcff",
+        "type": "italic",
+        "headIndent": 33
+      },
+      "link": {
+        "color": "#FAD000"
+      },
+      "schedule-to-date-link": {
+        "color": "#FAD000"
+      },
+      "done-date": {
+        "color": "#3ad900"
+      },
+      "schedule-from-date-link": {
+        "color": "#FAD000"
+      },
+      "note-title-link": {
+        "color": "#FAD000"
+      },
+      "hashtag": {
+        "color": "#6943ff"
+      },
+      "attag": {
+        "color": "#6943ff"
+      },
+      "phonenumber": {
+        "color": "#FAD000"
+      }
+    }
+  }
+  
